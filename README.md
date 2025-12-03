@@ -1,16 +1,20 @@
 ## Website Development Project 👋
+# Functional Calculator
 
-<!--
-**Choigo316/Choigo316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A responsive calculator supporting basic arithmetic, memory functions, scientific mode, and theme switching.
 
-Here are some ideas to get you started:
+## Layout & Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Display:** Shows input and results.
+- **Standard Buttons:** Digits, decimal, operators (+, −, ×, ÷), clear (C), equals (=).
+- **Memory Functions:** M+, M−, MR, MC buttons.
+- **Scientific Mode:** Toggle to show sin, cos, log functions.
+- **Theme Switcher:** Toggle between dark/light mode.
+- **Keyboard Input:** Supports key presses for all features.
+
+## Usage
+
+- Click buttons or use keyboard to operate.
+- Use M+, M− to add/subtract result to memory.
+- Use sin, cos, log in scientific mode.
+- Use the moon/sun button for dark/light theme.
