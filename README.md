@@ -1,7 +1,7 @@
 ## Website Development Project 👋
-# Functional Calculator
+# Simple Functional Calculator
 
-A responsive calculator supporting basic arithmetic, memory functions, scientific mode, and theme switching.
+A responsive calculator supporting basic arithmetic, memory functions, scientific mode, and dark & light theme switching.
 
 ## Layout & Features
 
